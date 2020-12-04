@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "name": "Aizhamal",
+      "surname": "Usen",
+      "phone": "99999",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "Meka",
+      "surname": "Ashirmatova",
+      "phone": "7777",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Askat",
+      "surname": "Daut",
+      "phone": "8888",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "Alex",
+      "surname": "Alex",
+      "phone": "6666",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
